@@ -1,18 +1,12 @@
-## Getting Started
+## Tax Calculator
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+This is basically from Grade 11 when I was first introduced to my first programming language, Java. It uses provincial and federal tax to calculate your taxes.
 
-## Folder Structure
+## To Run the file
 
-The workspace contains two folders by default, where:
+Download the zip file and make sure you have Java Package in your Visual Studio.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+- Download the zip file
+- And run the src/app.java file (Make sure you have Java Package in your VSC and open the java project folder in VSC.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+![image](https://github.com/AhmedAbdulwasi/TaxCalculator/assets/98428365/23e31f77-a165-47a2-8a73-54b9b56f7828)
