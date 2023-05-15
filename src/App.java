@@ -2,7 +2,7 @@ import java.util.Scanner; // Import the Scanner class
 
 public class App {
     public static void main(String[] args) {
-    // Simple Tax Calculator that uses Federal and provencial tax to calculate your taxes annually.
+    // Simple Tax Calculator that uses Federal and provincial tax to calculate your taxes annually.
         
     // Create a scanner for keyboard inputs
         Scanner keyboard = new Scanner(System.in);
