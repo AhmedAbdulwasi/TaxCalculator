@@ -1,4 +1,4 @@
-## Tax Calculator
+## Tax Calculator (Ontario Only)
 
 This is basically from Grade 11 when I was first introduced to my first programming language, Java. It uses provincial and federal tax to calculate your taxes.
 
