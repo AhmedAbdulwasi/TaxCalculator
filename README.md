@@ -10,4 +10,5 @@ Download the zip file and make sure you have Java Package in your Visual Studio.
 - And run the src/app.java file (Make sure you have Java Package in your VSC and open the java project folder in VSC.
 
 ![image](https://github.com/AhmedAbdulwasi/TaxCalculator/assets/98428365/23e31f77-a165-47a2-8a73-54b9b56f7828)
+
 The salary brackets that were used come from TurboTax
